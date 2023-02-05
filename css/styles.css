@@ -1,0 +1,8 @@
+
+body {background-color:peachpuff;}
+hr {border-style:none;
+    border-color: black;
+    border-top-style:dotted;
+    border-width: 5px;
+    width: 25%;
+}
